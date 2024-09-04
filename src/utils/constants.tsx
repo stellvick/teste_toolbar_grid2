@@ -25,12 +25,6 @@ const NAVIGATION: Navigation = [
         {
           segment: 'home',
           title: 'Home',
-          icon: <DashboardIcon />,
-        },
-        {
-          segment: 'overview',
-          title: 'Overview',
-          icon: <DashboardIcon />,
         },
       ],
     },
